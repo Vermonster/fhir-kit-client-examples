@@ -1,0 +1,8 @@
+pre {
+  text-align: left;
+  width: 50%;
+  border: 1px solid #ddd;
+  margin: 0 auto;
+  height: 400px;
+  overflow: scroll;
+}
